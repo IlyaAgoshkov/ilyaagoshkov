@@ -8,8 +8,6 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=1FAF5A)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=12A2FC)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=173A2A)
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618B)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#3E7097)
 
 ## Ever worked with this ##
 ![HTML](	https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=F36E34)
@@ -21,6 +19,8 @@
 ![С#](	https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=6F2E83)
 ![PHP](	https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=373270)
 ![GO](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=go&logoColor=73D9E6)
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618B)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#3E7097)
 
 
 # Communication #
